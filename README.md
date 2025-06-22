@@ -21,6 +21,6 @@
 - 적은 Patrol(순찰) 상태와 Chase(추적) 상태를 전환하며 플레이어를 추적합니다.
 - `EnemyAI`와 `EnemySight2D`, `EnemyPathfinder` 등을 분리하여 구성하였고,
 - `EnemyPathfinder`는 **Tilemap 기반 2D 경로 탐색 시스템**으로,
-  **BFS (Breadth-First Search)** 알고리즘을 직접 구현하여 최단 경로를 계산합니다.
+  **BFS (Breadth-First Search)** 알고리즘을 구현하여 최단 경로를 계산합니다.
 
   ![image-1](https://github.com/user-attachments/assets/aabf06c0-15bb-4e78-82fa-090892390be1)
